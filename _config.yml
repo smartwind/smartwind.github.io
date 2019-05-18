@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     挥不去的台风
+weibo_username:     mushu2012
 #zhihu_username:     qiubaiying
 github_username:    smartwind
 #facebook_username:  baiying.qiu.7
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ##ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-##ga_domain: smartwind.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: smartwind.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -105,10 +105,10 @@ friends: [
         title: "weibo",
         href: "https://weibo.com/mushu2012"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "runoob",
+        href: "https://c.runoob.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "365exe",
+        href: "http://www.365exe.com/"
     }
 ]
